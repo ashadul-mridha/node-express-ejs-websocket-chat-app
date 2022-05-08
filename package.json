@@ -4,8 +4,7 @@
   "description": "Learn with Sumit Node.js Chat Application",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
-    "prod": "node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
